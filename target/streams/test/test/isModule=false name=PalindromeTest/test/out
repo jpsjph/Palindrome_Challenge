@@ -1,0 +1,6 @@
+[0m[[0minfo[0m] [0m[32mPalindromeTest:[0m[0m
+[0m[[0minfo[0m] [0m[32mPalindrome Test[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return true when the word is palindrome[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return false when the word is palindrome[0m[0m
+[0m[[0minfo[0m] [0m[32m- should find all unique palindromes in given word[0m[0m
+[0m[[0minfo[0m] [0m[32m- should sort by the length of the text[0m[0m

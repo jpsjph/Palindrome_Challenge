@@ -1,0 +1,276 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\target\scala-2.11\classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.0
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+13 items
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\AppSystem.scala -> C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\target\scala-2.11\classes\com\palindrome\AppSystem$.class
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\AppSystem.scala -> C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\target\scala-2.11\classes\com\palindrome\AppSystem.class
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\Palindrome.scala -> C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\target\scala-2.11\classes\com\palindrome\Palindrome$$anonfun$1$$anonfun$apply$1.class
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\Palindrome.scala -> C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\target\scala-2.11\classes\com\palindrome\Palindrome$$anonfun$1$$anonfun$apply$2.class
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\Palindrome.scala -> C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\target\scala-2.11\classes\com\palindrome\Palindrome$$anonfun$1$$anonfun$apply$3.class
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\Palindrome.scala -> C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\target\scala-2.11\classes\com\palindrome\Palindrome$$anonfun$1.class
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\Palindrome.scala -> C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\target\scala-2.11\classes\com\palindrome\Palindrome$$anonfun$ordering$1.class
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\Palindrome.scala -> C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\target\scala-2.11\classes\com\palindrome\Palindrome$$anonfun$sort$1.class
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\Palindrome.scala -> C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\target\scala-2.11\classes\com\palindrome\Palindrome$.class
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\Palindrome.scala -> C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\target\scala-2.11\classes\com\palindrome\Palindrome.class
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\PalindromeHandler.scala -> C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\target\scala-2.11\classes\com\palindrome\PalindromeHandler$$anonfun$display$1.class
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\PalindromeHandler.scala -> C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\target\scala-2.11\classes\com\palindrome\PalindromeHandler$.class
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\PalindromeHandler.scala -> C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\target\scala-2.11\classes\com\palindrome\PalindromeHandler.class
+binary dependencies:
+6 items
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\AppSystem.scala -> C:\Program Files\Java\jre1.8.0_131\lib\rt.jar
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\AppSystem.scala -> C:\Users\Jean-Pierre\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.0.jar
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\Palindrome.scala -> C:\Program Files\Java\jre1.8.0_131\lib\rt.jar
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\Palindrome.scala -> C:\Users\Jean-Pierre\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.0.jar
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\PalindromeHandler.scala -> C:\Program Files\Java\jre1.8.0_131\lib\rt.jar
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\PalindromeHandler.scala -> C:\Users\Jean-Pierre\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.0.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+3 items
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\AppSystem.scala -> C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\Palindrome.scala
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\AppSystem.scala -> C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\PalindromeHandler.scala
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\PalindromeHandler.scala -> C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\Palindrome.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+13 items
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\AppSystem.scala -> com.palindrome.AppSystem
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\AppSystem.scala -> com.palindrome.AppSystem$
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\Palindrome.scala -> com.palindrome.Palindrome
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\Palindrome.scala -> com.palindrome.Palindrome$
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\Palindrome.scala -> com.palindrome.Palindrome$$anonfun$1
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\Palindrome.scala -> com.palindrome.Palindrome$$anonfun$1$$anonfun$apply$1
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\Palindrome.scala -> com.palindrome.Palindrome$$anonfun$1$$anonfun$apply$2
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\Palindrome.scala -> com.palindrome.Palindrome$$anonfun$1$$anonfun$apply$3
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\Palindrome.scala -> com.palindrome.Palindrome$$anonfun$ordering$1
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\Palindrome.scala -> com.palindrome.Palindrome$$anonfun$sort$1
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\PalindromeHandler.scala -> com.palindrome.PalindromeHandler
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\PalindromeHandler.scala -> com.palindrome.PalindromeHandler$
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\PalindromeHandler.scala -> com.palindrome.PalindromeHandler$$anonfun$display$1
+used names:
+148 items
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\AppSystem.scala -> <init>
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\AppSystem.scala -> AnyRef
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\AppSystem.scala -> AppSystem
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\AppSystem.scala -> Array
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\AppSystem.scala -> IndexedSeq
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\AppSystem.scala -> Int
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\AppSystem.scala -> Object
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\AppSystem.scala -> Palindrome
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\AppSystem.scala -> PalindromeHandler
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\AppSystem.scala -> Predef
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\AppSystem.scala -> String
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\AppSystem.scala -> Unit
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\AppSystem.scala -> com
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\AppSystem.scala -> display
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\AppSystem.scala -> getUniquePalindromes
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\AppSystem.scala -> input
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\AppSystem.scala -> longestPalindromes
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\AppSystem.scala -> package
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\AppSystem.scala -> palindrome
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\AppSystem.scala -> scala
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\Palindrome.scala -> &&
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\Palindrome.scala -> <
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\Palindrome.scala -> <init>
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\Palindrome.scala -> ==
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\Palindrome.scala -> >=
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\Palindrome.scala -> A
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\Palindrome.scala -> Any
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\Palindrome.scala -> AnyRef
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\Palindrome.scala -> B
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\Palindrome.scala -> Boolean
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\Palindrome.scala -> CanBuildFrom
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\Palindrome.scala -> Coll
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\Palindrome.scala -> FilterMonadic
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\Palindrome.scala -> Function1
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\Palindrome.scala -> GenTraversableOnce
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\Palindrome.scala -> Inclusive
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\Palindrome.scala -> IndexOutOfBoundsException
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\Palindrome.scala -> IndexedSeq
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\Palindrome.scala -> Int
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\Palindrome.scala -> Iterator
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\Palindrome.scala -> MatchError
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\Palindrome.scala -> None
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\Palindrome.scala -> Nothing
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\Palindrome.scala -> Object
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\Palindrome.scala -> Ordering
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\Palindrome.scala -> Palindrome
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\Palindrome.scala -> Predef
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\Palindrome.scala -> Product
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\Palindrome.scala -> Range
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\Palindrome.scala -> RichInt
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\Palindrome.scala -> S
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\Palindrome.scala -> ScalaRunTime
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\Palindrome.scala -> Serializable
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\Palindrome.scala -> Some
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\Palindrome.scala -> Statics
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\Palindrome.scala -> String
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\Palindrome.scala -> StringOps
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\Palindrome.scala -> T
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\Palindrome.scala -> T0
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\Palindrome.scala -> T1
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\Palindrome.scala -> T2
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\Palindrome.scala -> That
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\Palindrome.scala -> Tuple2
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\Palindrome.scala -> _2
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\Palindrome.scala -> _toString
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\Palindrome.scala -> anyHash
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\Palindrome.scala -> asInstanceOf
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\Palindrome.scala -> augmentString
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\Palindrome.scala -> beginIndex
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\Palindrome.scala -> by
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\Palindrome.scala -> canBuildFrom
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\Palindrome.scala -> com
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\Palindrome.scala -> empty
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\Palindrome.scala -> endIndex
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\Palindrome.scala -> eq
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\Palindrome.scala -> finalizeHash
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\Palindrome.scala -> flatMap
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\Palindrome.scala -> immutable
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\Palindrome.scala -> intWrapper
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\Palindrome.scala -> isInstanceOf
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\Palindrome.scala -> isPalindrome
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\Palindrome.scala -> l
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\Palindrome.scala -> map
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\Palindrome.scala -> math
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\Palindrome.scala -> minLength
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\Palindrome.scala -> mix
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\Palindrome.scala -> ne
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\Palindrome.scala -> nonEmpty
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\Palindrome.scala -> ordering
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\Palindrome.scala -> package
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\Palindrome.scala -> palindrome
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\Palindrome.scala -> palindromes
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\Palindrome.scala -> reverse
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\Palindrome.scala -> runtime
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\Palindrome.scala -> s
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\Palindrome.scala -> scala
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\Palindrome.scala -> size
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\Palindrome.scala -> sortBy
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\Palindrome.scala -> str
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\Palindrome.scala -> subString
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\Palindrome.scala -> substring
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\Palindrome.scala -> text
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\Palindrome.scala -> to
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\Palindrome.scala -> toLowerCase
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\Palindrome.scala -> toString
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\Palindrome.scala -> typedProductIterator
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\Palindrome.scala -> unchecked
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\Palindrome.scala -> withFilter
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\Palindrome.scala -> ||
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\PalindromeHandler.scala -> <init>
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\PalindromeHandler.scala -> <repeated>
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\PalindromeHandler.scala -> A
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\PalindromeHandler.scala -> Any
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\PalindromeHandler.scala -> AnyRef
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\PalindromeHandler.scala -> Function1
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\PalindromeHandler.scala -> IndexedSeq
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\PalindromeHandler.scala -> Int
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\PalindromeHandler.scala -> Nothing
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\PalindromeHandler.scala -> Object
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\PalindromeHandler.scala -> Ordering
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\PalindromeHandler.scala -> Palindrome
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\PalindromeHandler.scala -> PalindromeHandler
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\PalindromeHandler.scala -> Predef
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\PalindromeHandler.scala -> String
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\PalindromeHandler.scala -> StringContext
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\PalindromeHandler.scala -> T
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\PalindromeHandler.scala -> U
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\PalindromeHandler.scala -> Unit
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\PalindromeHandler.scala -> apply
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\PalindromeHandler.scala -> beginIndex
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\PalindromeHandler.scala -> com
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\PalindromeHandler.scala -> foreach
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\PalindromeHandler.scala -> inputs
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\PalindromeHandler.scala -> listPalindromes
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\PalindromeHandler.scala -> lists
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\PalindromeHandler.scala -> num
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\PalindromeHandler.scala -> ordering
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\PalindromeHandler.scala -> package
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\PalindromeHandler.scala -> palindrome
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\PalindromeHandler.scala -> println
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\PalindromeHandler.scala -> reverse
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\PalindromeHandler.scala -> s
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\PalindromeHandler.scala -> scala
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\PalindromeHandler.scala -> size
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\PalindromeHandler.scala -> sort
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\PalindromeHandler.scala -> sorted
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\PalindromeHandler.scala -> take
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\PalindromeHandler.scala -> text
+product stamps:
+13 items
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\target\scala-2.11\classes\com\palindrome\AppSystem$.class -> lastModified(1500252178439)
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\target\scala-2.11\classes\com\palindrome\AppSystem.class -> lastModified(1500252178439)
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\target\scala-2.11\classes\com\palindrome\Palindrome$$anonfun$1$$anonfun$apply$1.class -> lastModified(1500252178466)
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\target\scala-2.11\classes\com\palindrome\Palindrome$$anonfun$1$$anonfun$apply$2.class -> lastModified(1500252178469)
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\target\scala-2.11\classes\com\palindrome\Palindrome$$anonfun$1$$anonfun$apply$3.class -> lastModified(1500252178471)
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\target\scala-2.11\classes\com\palindrome\Palindrome$$anonfun$1.class -> lastModified(1500252178463)
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\target\scala-2.11\classes\com\palindrome\Palindrome$$anonfun$ordering$1.class -> lastModified(1500252178474)
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\target\scala-2.11\classes\com\palindrome\Palindrome$$anonfun$sort$1.class -> lastModified(1500252178476)
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\target\scala-2.11\classes\com\palindrome\Palindrome$.class -> lastModified(1500252178459)
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\target\scala-2.11\classes\com\palindrome\Palindrome.class -> lastModified(1500252178439)
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\target\scala-2.11\classes\com\palindrome\PalindromeHandler$$anonfun$display$1.class -> lastModified(1500252178484)
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\target\scala-2.11\classes\com\palindrome\PalindromeHandler$.class -> lastModified(1500252178481)
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\target\scala-2.11\classes\com\palindrome\PalindromeHandler.class -> lastModified(1500252178479)
+source stamps:
+3 items
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\AppSystem.scala -> hash(03f004211a8663ab79f09c6b7464b7515700179c)
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\Palindrome.scala -> hash(a67cc10ab9014118030bd0b17c5f5518eb0743ac)
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\PalindromeHandler.scala -> hash(75a246a2ad7b59fdb6d4e01954af39cc402c52cc)
+binary stamps:
+2 items
+C:\Program Files\Java\jre1.8.0_131\lib\rt.jar -> lastModified(1500248188622)
+C:\Users\Jean-Pierre\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.0.jar -> lastModified(1397639609000)
+class names:
+2 items
+C:\Program Files\Java\jre1.8.0_131\lib\rt.jar -> java.lang.Object
+C:\Users\Jean-Pierre\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.0.jar -> scala.Function1
+internal apis:
+3 items
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\AppSystem.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwUvlB4wAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAVc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwbWy5xnQABm5vdGlmeXNxAH4ADMRVB5F0AAR3YWl0c3EAfgAMRmTfp3QADSRhc0luc3RhbmNlT2ZzcQB+AAzwYLzhdAAGZXF1YWxzc3EAfgAM3Ut6wHQADGFzSW5zdGFuY2VPZnNxAH4ADC77H1p0AAxzeW5jaHJvbml6ZWRzcQB+AAwYLIfedAANJGlzSW5zdGFuY2VPZnNxAH4ADIN1uy90AARtYWluc3EAfgAMzykuXHQACW5vdGlmeUFsbHNxAH4ADB/jmUx0AAxpc0luc3RhbmNlT2ZzcQB+AAw+J5GXdAACPT1zcQB+AAxzo2iedAAFY2xvbmVzcQB+AAwHRvs+dAAIdG9TdHJpbmdzcQB+AAz7t6ztdAACIT1zcQB+AAyd4AB0dAAIZ2V0Q2xhc3NzcQB+AAxqUHqAdAAJQXBwU3lzdGVtc3EAfgAM5iJvbnQAAm5lc3EAfgAM/HB8vHQAAmVxc3EAfgAMJXxMD3QAAiMjc3EAfgAMM1nwkHQACGZpbmFsaXplc3EAfgAM0QkdnHQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AQXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQAGGNvbS5wYWxpbmRyb21lLkFwcFN5c3RlbXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AWXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBBTAAJaW5oZXJpdGVkcQB+AEFMAAdwYXJlbnRzcQB+AEF4cQB+AF5zcQB+AFl1cQB+ADwAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AEJxAH4AS3VxAH4ATAAAAABzcQB+AE4AcQB+AB11cQB+AFEAAAAAc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AXXQABFVuaXRzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AF1zcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AHl1cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgBmeHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgBUdAAFUGxhaW50AARhcmdzc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgBtWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgBdc3EAfgBsdAAFQXJyYXlxAH4AcnVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgBsdAAGU3RyaW5nc3EAfgBwc3EAfgBzdXEAfgB2AAAAA3NxAH4AeHQABGphdmFzcQB+AHh0AARsYW5ncQB+AH1zcQB+AFl1cQB+ADwAAAAAc3EAfgBZdXEAfgCRAAAAAnNxAH4AbHQABk9iamVjdHEAfgCVc3EAfgBsdAADQW55cQB+AHJ1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAnNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AA5jb20ucGFsaW5kcm9tZXNxAH4ApnQAA2NvbXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXU3/R7Z1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABXQzpcVXNlcnNcSmVhbi1QaWVycmVcRG9jdW1lbnRzXHdvcmtwbGFjZVxQYWxpbmRyb21lX0NoYWxsZW5nZVx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUA/AEIRqGY6t58JxrdGS3UVcAF5w=
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\Palindrome.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwVlgfyQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAFzcgAgeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2hbDvUidjhXzwIAAkkABGhhc2hMAARuYW1ldAASTGphdmEvbGFuZy9TdHJpbmc7eHDT4Cc/dAAIb3JkZXJpbmd1cQB+AAkAAAAnc3EAfgALUyUqonQABm5vdGlmeXNxAH4AC4iGXx10AAd1bmFwcGx5c3EAfgALGRYK3nQAClBhbGluZHJvbWVzcQB+AAv97hoVdAAEd2FpdHNxAH4AC+KwRlR0AA5jb3B5JGRlZmF1bHQkMnNxAH4AC3pPzT50AA0kYXNJbnN0YW5jZU9mc3EAfgALyOpsAnQABHNpemVzcQB+AAuW9VZUdAAMcHJvZHVjdEFyaXR5c3EAfgALjpr82nQADGlzUGFsaW5kcm9tZXNxAH4AC5dXnZZ0AAZlcXVhbHNzcQB+AAuzc7KwdAAMYXNJbnN0YW5jZU9mc3EAfgALcfgPNXQAD2xpc3RQYWxpbmRyb21lc3NxAH4AC5z3g6B0AAxzeW5jaHJvbml6ZWRzcQB+AAuw1V72dAANJGlzSW5zdGFuY2VPZnNxAH4AC+OxeJp0AAR0ZXh0c3EAfgALsEMBw3QACGNhbkVxdWFsc3EAfgAL7OiiqHQAGWxpc3RQYWxpbmRyb21lcyRkZWZhdWx0JDJzcQB+AAvPPpModAAKYmVnaW5JbmRleHNxAH4AC+rSSy10AA1wcm9kdWN0UHJlZml4c3EAfgALSwQoeXQACW5vdGlmeUFsbHNxAH4AC7sxfNF0AAxpc0luc3RhbmNlT2ZzcQB+AAu/N+B0dAAGPGluaXQ+c3EAfgALJaPSE3QABWFwcGx5c3EAfgALmMy2THQAAj09c3EAfgALVmdxxnQABWNsb25lc3EAfgALWDWPlnQABiRpbml0JHNxAH4ACzKWyZd0AARjb3B5c3EAfgALG8EUWnQACHRvU3RyaW5nc3EAfgALTgwUOnQAAiE9c3EAfgALbm0su3QACGdldENsYXNzc3EAfgALHzZhbnQADmNvcHkkZGVmYXVsdCQxc3EAfgALlBIp93QABHNvcnRzcQB+AAvdsvKcdAACbmVzcQB+AAtjBJ1JdAACZXFzcQB+AAvUvY0ndAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgALdNET8XQAAiMjc3EAfgALDwpG6XQACGZpbmFsaXplc3EAfgALV4FvmHQADnByb2R1Y3RFbGVtZW50c3EAfgALSmD/PnQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAnNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AZ3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AAx4cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQAGWNvbS5wYWxpbmRyb21lLlBhbGluZHJvbWV1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4Af3NyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBnTAAJaW5oZXJpdGVkcQB+AGdMAAdwYXJlbnRzcQB+AGd4cQB+AIRzcQB+AH91cQB+AGIAAAAAc3EAfgB/dXEAfgBiAAAAAHNxAH4Af3VyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAAGc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgAMTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4Ag3QADFNlcmlhbGl6YWJsZXNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4Ag3NyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AAx4cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AnXNxAH4AkHEAfgCTc3EAfgCUc3EAfgCXdXEAfgCaAAAAA3NxAH4AnHQABGphdmFzcQB+AJx0AAJpb3EAfgChc3EAfgCQdAAHUHJvZHVjdHEAfgCWc3EAfgCQdAAGRXF1YWxzcQB+AJZzcQB+AJB0AAZPYmplY3RzcQB+AJRzcQB+AJd1cQB+AJoAAAADc3EAfgCccQB+AKdzcQB+AJx0AARsYW5ncQB+AKFzcQB+AJB0AANBbnlxAH4AlnNxAH4AZHEAfgBxdXEAfgByAAAAAHNxAH4AdAB0ABljb20ucGFsaW5kcm9tZS5QYWxpbmRyb21ldXEAfgB3AAAAAH5xAH4AeXQABk1vZHVsZXVxAH4AfQAAAABzcQB+AH9xAH4AhXNxAH4Af3NxAH4Ah3NxAH4Af3VxAH4AYgAAAABzcQB+AH91cQB+AGIAAAAAc3EAfgB/dXEAfgCOAAAABHNxAH4AkHEAfgCTc3EAfgCUc3EAfgCXdXEAfgCaAAAAAnNxAH4AnHEAfgCfcQB+AKFzcQB+AJBxAH4Ak3NxAH4AlHNxAH4Al3VxAH4AmgAAAANzcQB+AJxxAH4Ap3NxAH4AnHQAAmlvcQB+AKFzcQB+AJBxAH4Ar3NxAH4AlHNxAH4Al3VxAH4AmgAAAANzcQB+AJxxAH4Ap3NxAH4AnHEAfgC1cQB+AKFzcQB+AJBxAH4At3EAfgDKdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAJzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADHhwdAAOY29tLnBhbGluZHJvbWVzcQB+AN50AANjb21zcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAV1N/0e2dXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgAMTAAPc291cmNlRGlyZWN0b3J5cQB+AAx4cHQAV0M6XFVzZXJzXEplYW4tUGllcnJlXERvY3VtZW50c1x3b3JrcGxhY2VcUGFsaW5kcm9tZV9DaGFsbGVuZ2VcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFKZ8wQq5AUEYAwvQsXxfVRjrB0Os
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\PalindromeHandler.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwZlgX3gAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAWc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwbqXkuXQABm5vdGlmeXNxAH4ADAUVw+R0AAR3YWl0c3EAfgAMqU5FDHQADSRhc0luc3RhbmNlT2ZzcQB+AAw5au4XdAAGZXF1YWxzc3EAfgAM5y5AFHQADGFzSW5zdGFuY2VPZnNxAH4ADHopbTV0AAxzeW5jaHJvbml6ZWRzcQB+AAz4ZTekdAANJGlzSW5zdGFuY2VPZnNxAH4ADGhObHZ0AAlub3RpZnlBbGxzcQB+AAyAxW3+dAAMaXNJbnN0YW5jZU9mc3EAfgAMYGfblXQAAj09c3EAfgAMwH93bHQABWNsb25lc3EAfgAM+w4kQHQACHRvU3RyaW5nc3EAfgAMAL28OnQAFGdldFVuaXF1ZVBhbGluZHJvbWVzc3EAfgAMbV870nQAAiE9c3EAfgAMD8gkbnQACGdldENsYXNzc3EAfgAMH1DIznQAAm5lc3EAfgAMvqM/E3QAEVBhbGluZHJvbWVIYW5kbGVyc3EAfgAMGCEOAnQAAmVxc3EAfgAM5b2mX3QAAiMjc3EAfgAMWcO483QACGZpbmFsaXplc3EAfgAMU4UQYnQACGhhc2hDb2Rlc3EAfgAMCPvGeHQAB2Rpc3BsYXlzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBDeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAgY29tLnBhbGluZHJvbWUuUGFsaW5kcm9tZUhhbmRsZXJ1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AFtzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AQ0wACWluaGVyaXRlZHEAfgBDTAAHcGFyZW50c3EAfgBDeHEAfgBgc3EAfgBbdXEAfgA+AAAAAHNxAH4AW3VxAH4APgAAAABzcQB+AFt1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AF90AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AF9zcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AHh0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AHlzcQB+AGx0AANBbnlzcQB+AHBzcQB+AHN1cQB+AHYAAAACc3EAfgB4dAAFc2NhbGFxAH4Af3VyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAACc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQADmNvbS5wYWxpbmRyb21lc3EAfgCJdAADY29tc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFdTf9HtnVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AFdDOlxVc2Vyc1xKZWFuLVBpZXJyZVxEb2N1bWVudHNcd29ya3BsYWNlXFBhbGluZHJvbWVfQ2hhbGxlbmdlXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABR1okairXtZ/bbU4BlUrznMQCxSzA==
+external apis:
+0 items
+source infos:
+3 items
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\AppSystem.scala -> 
+AAAAAAAAAAA=
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\Palindrome.scala -> 
+AAAAAAAAAAA=
+C:\Users\Jean-Pierre\Documents\workplace\Palindrome_Challenge\src\main\scala\com\palindrome\PalindromeHandler.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXU3/R7Z1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAV0M6XFVzZXJzXEplYW4tUGllcnJlXERvY3VtZW50c1x3b3JrcGxhY2VcUGFsaW5kcm9tZV9DaGFsbGVuZ2VcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
