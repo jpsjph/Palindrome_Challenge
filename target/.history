@@ -20,3 +20,7 @@ test
 reload
 test
 exit
+run
+sbt
+test
+exit
